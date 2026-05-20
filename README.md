@@ -26,6 +26,12 @@ TinyTorchProfiler helps answer practical deployment questions:
 
 ## Installation
 
+Install the published package from PyPI:
+
+```bash
+pip install tinytorchprofiler==0.1.2
+```
+
 From the project root, install the package in editable mode:
 
 ```bash
