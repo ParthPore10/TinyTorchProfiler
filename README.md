@@ -276,16 +276,6 @@ CPU load, CUDA synchronization, and model structure.
 Activation memory is estimated from forward outputs. It should be treated as a
 helpful approximation, not as a replacement for full memory tracing.
 
-## Roadmap
-
-Planned future improvements:
-
-- Batch-size scaling analysis
-- Memory peak tracking
-- Visualization
-- ONNX export profiling
-- ViT and DINOv2 examples
-
 ## Version
 
 Current version: `0.1.2`
